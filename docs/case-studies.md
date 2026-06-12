@@ -1,95 +1,47 @@
-# Case Studies
-
-## Case Study 1: Missing Arbitration Institution
-
-### Facts
-
-Company A and Company B conclude a sales contract containing the following clause:
-
-> Any dispute arising from this contract shall be resolved by arbitration.
-
-A dispute later arises between the parties.
-
-### Issue
-
-Is the arbitration clause valid?
-
-### Analysis
-
-The clause shows an intention to arbitrate. However, it does not identify an arbitration institution and provides no method for determining one.
-
-Under Chinese arbitration law, failure to identify the arbitration institution may affect the validity of the clause.
-
-### Conclusion
-
-The arbitration clause may be invalid because the arbitration institution cannot be determined.
-
-### Exam Point
-
-Always check whether the arbitration commission is clearly identifiable.
+# Chapter 5: Case Studies  
+### Chinese Arbitration Law – Academic Guide
 
 ---
 
-## Case Study 2: Arbitration or Litigation
+## 1. Introduction
 
-### Facts
-
-A contract contains the following provision:
-
-> The parties may submit disputes to arbitration or bring an action before a court.
-
-### Issue
-
-Is the arbitration agreement valid?
-
-### Analysis
-
-The clause does not establish a clear and exclusive intention to arbitrate. Instead, it allows parties to choose between arbitration and litigation.
-
-### Conclusion
-
-The clause may be considered invalid because the parties' intention to arbitrate is uncertain.
-
-### Exam Point
-
-A valid arbitration agreement generally requires a clear commitment to arbitration.
+Case studies help apply legal principles to real situations and are essential for exam preparation.
 
 ---
 
-## Case Study 3: Court Proceedings Despite Arbitration Clause
+## 2. Case 1: Missing Institution
 
-### Facts
+A clause states:
 
-Company A and Company B agree that disputes shall be submitted to CIETAC for arbitration.
+> Any dispute shall be resolved by arbitration.
 
-After a dispute arises, Company A files a lawsuit in court.
-
-### Issue
-
-Should the court hear the case?
-
-### Analysis
-
-The contract contains a valid arbitration clause that designates a specific arbitration institution.
-
-### Conclusion
-
-The court will generally decline jurisdiction and require the parties to proceed through arbitration.
-
-### Exam Point
-
-A valid arbitration agreement usually excludes court jurisdiction over the dispute.
+❌ No arbitration institution is specified  
+➡ Clause likely invalid  
 
 ---
 
-## Common Examination Method
+## 3. Case 2: Arbitration or Litigation Option
 
-For every case:
+> Parties may choose arbitration or litigation.
 
-1. Identify the arbitration clause.
-2. Determine whether it is valid.
-3. Identify the arbitration institution.
-4. Analyze jurisdiction.
-5. Reach a clear conclusion.
+❌ No clear intention to arbitrate  
+➡ Clause likely invalid  
 
-Following these steps will help structure answers in examinations and moot court competitions.
+---
+
+## 4. Case 3: Valid Arbitration Clause
+
+> All disputes shall be submitted to CIETAC for arbitration.
+
+✔ Valid clause  
+✔ Court will decline jurisdiction  
+
+---
+
+## 5. Conclusion
+
+Case analysis always follows three steps:
+
+1. Identify clause  
+2. Check validity  
+3. Determine jurisdiction  

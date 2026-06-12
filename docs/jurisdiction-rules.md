@@ -1,69 +1,49 @@
-# Jurisdiction Rules
+# Chapter 3: Jurisdiction Rules  
+### Chinese Arbitration Law – Academic Guide
 
-## Introduction
+---
 
-Jurisdiction refers to the authority of a court or arbitral tribunal to hear and decide a dispute. In Chinese arbitration law, determining jurisdiction is often the first issue that must be resolved before the merits of a case can be considered.
+## 1. Introduction
 
-## Principle of Party Autonomy
+Jurisdiction determines whether a dispute is handled by a court or an arbitral tribunal.
 
-Chinese arbitration law recognizes the principle of party autonomy. Parties are generally free to agree that disputes arising between them will be resolved through arbitration rather than litigation.
+In arbitration law, jurisdiction depends primarily on the existence and validity of an arbitration agreement.
 
-When a valid arbitration agreement exists, the parties are expected to submit their dispute to arbitration.
+---
 
-## Relationship Between Courts and Arbitration
+## 2. Party Autonomy
 
-Arbitration and litigation are separate dispute resolution mechanisms.
+Chinese arbitration law is based on party autonomy, meaning parties are free to choose arbitration instead of litigation.
 
-If a valid arbitration agreement exists:
+---
 
-* The arbitral tribunal generally has jurisdiction.
-* People's courts will usually decline jurisdiction over the dispute.
+## 3. Relationship Between Courts and Arbitration
 
-If no valid arbitration agreement exists:
+- Valid arbitration agreement → arbitration tribunal has jurisdiction  
+- No valid agreement → courts have jurisdiction  
 
-* The dispute may be brought before a court with proper jurisdiction.
+Courts generally respect arbitration agreements and avoid interfering.
 
-## Competence-Competence Principle
+---
 
-An arbitral tribunal may determine whether it has jurisdiction over a dispute.
+## 4. Competence-Competence Principle
 
-However, Chinese courts also play an important role in reviewing challenges to the validity of arbitration agreements and jurisdictional objections.
+Arbitral tribunals have the power to decide on their own jurisdiction.
 
-## Situations Where Courts May Intervene
+However, courts may still review the validity of arbitration agreements in certain cases.
 
-Courts may become involved when:
+---
 
-* The validity of an arbitration agreement is disputed.
-* A party applies to set aside an arbitral award.
-* A party seeks recognition or enforcement of an arbitral award.
-* Interim measures are requested according to law.
+## 5. Court Intervention
 
-## Example
+Courts may intervene when:
 
-Company A and Company B sign a contract containing a valid arbitration clause designating CIETAC.
+- Arbitration agreement is challenged  
+- Enforcement of award is requested  
+- Interim measures are needed  
 
-A dispute arises and Company A files a lawsuit in court.
+---
 
-Because a valid arbitration agreement exists, the court will generally decline jurisdiction and direct the parties to arbitration.
+## 6. Conclusion
 
-## Key Exam Points
-
-When answering jurisdiction questions:
-
-1. Identify whether an arbitration agreement exists.
-2. Determine whether the agreement is valid.
-3. Identify the designated arbitration institution.
-4. Analyze whether the court or arbitral tribunal has jurisdiction.
-5. Conclude clearly.
-
-## Quick Checklist
-
-✓ Arbitration agreement exists
-
-✓ Arbitration agreement is valid
-
-✓ Dispute falls within the scope of the agreement
-
-✓ Arbitration institution can be identified
-
-If all conditions are satisfied, arbitration jurisdiction will generally prevail over court jurisdiction.
+Jurisdiction in arbitration depends mainly on the validity of the arbitration agreement and is guided by party autonomy.

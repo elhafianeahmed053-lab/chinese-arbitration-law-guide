@@ -1,59 +1,55 @@
-# Arbitration Agreements
+# Chapter 2: Arbitration Agreements  
+### Chinese Arbitration Law – Academic Guide
 
-## What Is an Arbitration Agreement?
+---
 
-An arbitration agreement is an agreement between parties to submit existing or future disputes to arbitration instead of resolving them through court litigation.
+## 1. Introduction
 
-The arbitration agreement reflects the parties' intention to resolve disputes through a private dispute resolution mechanism. Once a valid arbitration agreement exists, courts generally respect the parties' choice and decline jurisdiction over the dispute.
+An arbitration agreement is an agreement between parties to submit existing or future disputes to arbitration instead of court litigation.
 
-## Requirements Under Chinese Law
+It represents the parties’ consent to resolve disputes through a private dispute resolution mechanism.
 
-Under Chinese arbitration law, an arbitration agreement generally requires:
+---
 
-1. A clear expression of the parties' intention to arbitrate.
-2. Identification of the matters to be submitted to arbitration.
-3. Designation of an arbitration commission or a method by which the arbitration institution can be determined.
+## 2. Legal Requirements
 
-If these requirements are not satisfied, the arbitration agreement may be considered invalid.
+Under Chinese law, a valid arbitration agreement generally requires:
 
-## Forms of Arbitration Agreements
+- Clear intention to arbitrate  
+- Defined scope of disputes  
+- Identifiable arbitration institution  
 
-Arbitration agreements may appear in different forms:
+If any of these elements is missing, the clause may be invalid or unenforceable.
 
-### Arbitration Clause
+---
 
-An arbitration clause is included within a contract and applies to disputes arising from that contract.
+## 3. Forms of Arbitration Agreements
+
+### 3.1 Arbitration Clause
+
+An arbitration clause is included inside a contract.
 
 Example:
+> All disputes arising from this contract shall be submitted to CIETAC for arbitration.
 
-> Any dispute arising from or relating to this contract shall be submitted to arbitration before CIETAC.
+---
 
-### Separate Arbitration Agreement
+### 3.2 Separate Arbitration Agreement
 
-Parties may also conclude a separate arbitration agreement after a dispute has arisen.
+Parties may also sign a separate arbitration agreement after a dispute arises.
 
-## Legal Effect
+---
 
-A valid arbitration agreement has several important effects:
+## 4. Legal Effect
 
-* It grants jurisdiction to the arbitral tribunal.
-* It generally excludes the jurisdiction of ordinary courts.
-* It binds the parties to resolve disputes through arbitration.
+A valid arbitration agreement:
 
-## Example
+- Grants jurisdiction to arbitral tribunals  
+- Excludes court jurisdiction in most cases  
+- Binds parties to arbitration proceedings  
 
-Company A and Company B enter into a sales contract containing the following clause:
+---
 
-> Any dispute arising from this contract shall be submitted to arbitration before CIETAC.
+## 5. Conclusion
 
-If a dispute later arises, either party may commence arbitration before the designated institution rather than filing a lawsuit in court.
-
-## Key Exam Point
-
-When analyzing an arbitration clause, always ask:
-
-* Is there a clear intention to arbitrate?
-* Is the dispute covered by the clause?
-* Is the arbitration institution identifiable?
-
-These questions are often the starting point for determining whether an arbitration agreement is valid.
+Arbitration agreements are the foundation of arbitration law. Without a valid agreement, arbitration cannot proceed.

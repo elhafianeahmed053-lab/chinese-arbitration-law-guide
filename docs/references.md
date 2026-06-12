@@ -1,22 +1,30 @@
-# References
+# Chapter 7: References  
+### Chinese Arbitration Law – Academic Guide
 
-## Legislation
+---
 
-* Arbitration Law of the People's Republic of China
-* Civil Procedure Law of the People's Republic of China
+## 1. Legislation
 
-## Judicial Interpretations
+- Arbitration Law of the People's Republic of China  
+- Civil Procedure Law of the People's Republic of China  
 
-* Relevant judicial interpretations issued by the Supreme People's Court
+---
 
-## Arbitration Institutions
+## 2. Institutions
 
-* China International Economic and Trade Arbitration Commission (CIETAC)
-* Beijing Arbitration Commission (BAC)
-* Shanghai International Arbitration Center (SHIAC)
+- CIETAC  
+- BAC (Beijing Arbitration Commission)  
+- SHIAC  
 
-## Further Reading
+---
 
-* Academic articles on Chinese arbitration law
-* Arbitration institution rules
-* Chinese court decisions concerning arbitration agreements
+## 3. Judicial Interpretations
+
+- Supreme People's Court interpretations on arbitration agreements  
+
+---
+
+## 4. Academic Sources
+
+- Arbitration law textbooks  
+- Journal articles on dispute resolution  
